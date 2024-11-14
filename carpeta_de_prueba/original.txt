@@ -1,0 +1,4 @@
+/root/talleres/TALLER_DOS_4/carpeta_de_prueba:
+total 1028
+-rw-r--r-- 1 root root 20 Nov 13 19:38 archivo2.txt
+-rw-r--r-- 1 root root  0 Nov 13 19:48 original.txt
