@@ -1,0 +1,27 @@
+/root/talleres/TALLER_DOS_4:
+total 13380
+-rw-r--r-- 1 root root   697 Nov 14 18:32 GRUPO4.txt
+-rw-r--r-- 1 root root   545 Nov 13 18:40 Makefile
+-rw-r--r-- 1 root root    86 Nov 13 20:04 README.md
+-rw-r--r-- 1 root root    29 Nov 13 19:37 archivo1.txt
+-rwxr-xr-x 1 root root   513 Nov 13 19:26 cambiar_los_permisos.sh
+dr-xr---w- 1 root root  4096 Nov 13 19:48 carpeta_de_prueba
+-rw-r--r-- 1 root root   264 Nov 14 17:57 institucion.c
+-rw-r--r-- 1 root root  4688 Nov 14 18:27 institucion.o
+-rw-r--r-- 1 root root   506 Nov 14 17:59 main.c
+-rw-r--r-- 1 root root  5304 Nov 14 18:27 main.o
+-rw-r--r-- 1 root root   249 Nov 14 17:52 miLibInstitucion.h
+-rw-r--r-- 1 root root   189 Nov 14 17:52 miLibPersona.h
+-rw-r--r-- 1 root root   182 Nov 14 17:54 miReporte.h
+-rw-r--r-- 1 root root     0 Nov 14 19:29 original.txt
+-rw-r--r-- 1 root root   195 Nov 14 17:57 persona.c
+-rw-r--r-- 1 root root  4248 Nov 14 18:27 persona.o
+-rwxr-xr-x 1 root root 20104 Nov 14 18:27 programa
+-rw-r--r-- 1 root root   210 Nov 14 17:58 reporte.c
+-rw-r--r-- 1 root root  4424 Nov 14 18:27 reporte.o
+
+/root/talleres/TALLER_DOS_4/carpeta_de_prueba:
+total 12
+-rwxr---wx 1 root root  20 Nov 13 19:38 archivo2.txt
+-rw-r--r-- 1 root root 214 Nov 13 19:48 final.txt
+-rwxr---wx 1 root root 162 Nov 13 19:48 original.txt
